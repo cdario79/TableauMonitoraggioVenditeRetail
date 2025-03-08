@@ -1,43 +1,47 @@
-# Predizione delle Vendite nel Retail con Machine Learning  
+# Monitoraggio e Ottimizzazione delle Vendite nel Retail con Tableau  
 
 ## 📌 Descrizione del progetto  
 
-L’obiettivo di questo progetto è sviluppare un modello di **Machine Learning** per prevedere le vendite di un’azienda retail, basandosi su dati storici e variabili di contesto come stagionalità, promozioni e trend di mercato.  
+Questo progetto nasce dall'esigenza di monitorare in tempo reale le operazioni commerciali di un'azienda retail, identificare i trend di vendita e ottimizzare l’allocazione del budget di marketing.  
 
-Grazie a un approccio data-driven, il progetto permette di **ottimizzare la gestione dell’inventario**, **ridurre gli sprechi** e **migliorare le strategie di pricing e marketing**.  
+L’approccio **data-driven** consente di **migliorare la redditività**, **ridurre i costi logistici** e **ottimizzare le strategie di marketing** attraverso dashboard interattive e una Tableau Story.  
 
 ## 🛠️ Tecnologie utilizzate  
 
-- **Linguaggio di programmazione:** Python 🐍  
-- **Librerie principali:** scikit-learn, pandas, numpy, matplotlib, seaborn  
-- **Modelli di Machine Learning:** Regressione Lineare, Random Forest, XGBoost  
-- **Ambiente di sviluppo:** Jupyter Notebook  
+- **Strumento di visualizzazione:** Tableau 📊  
+- **Dati analizzati:** Vendite, profitti, spedizioni, categorie di prodotto  
+- **Metodologie:** Analisi delle serie temporali, ottimizzazione del budget marketing, business intelligence  
+- **Ambiente di sviluppo:** Tableau Public  
 
 ## 📈 Risultati ottenuti  
 
-- **Miglioramento del 25%** nella precisione delle previsioni rispetto ai metodi tradizionali  
-- **Riduzione del 15%** degli sprechi grazie a una migliore gestione delle scorte  
-- **Ottimizzazione della strategia di pricing**, aumentando la redditività  
+- **Riduzione del 20%** dei costi di spedizione grazie all'ottimizzazione delle modalità di consegna  
+- **Aumento del 15%** del profitto netto su prodotti con strategie di marketing migliorate  
+- **Miglioramento della strategia di allocazione del budget** per massimizzare il ritorno sugli investimenti  
+
+🔗 **Demo Live**: [Visualizza la dashboard su Tableau Public](https://public.tableau.com/app/profile/dario.colombo/viz/SuperstoreEurope-FinalProjectProfessionAI/SuperstoreOverview)  
 
 ---
 
-# Retail Sales Prediction with Machine Learning  
+# Retail Sales Monitoring and Optimization with Tableau  
 
 ## 📌 Project Description  
 
-The goal of this project is to develop a **Machine Learning model** to predict retail sales based on historical data and contextual variables such as seasonality, promotions, and market trends.  
+This project addresses the need for real-time monitoring of retail business operations, identifying sales trends, and optimizing marketing budget allocation.  
 
-Using a data-driven approach, the project helps **optimize inventory management**, **reduce waste**, and **improve pricing and marketing strategies**.  
+The **data-driven** approach helps **improve profitability**, **reduce logistics costs**, and **optimize marketing strategies** through interactive dashboards and a Tableau Story.  
 
 ## 🛠️ Technologies Used  
 
-- **Programming language:** Python 🐍  
-- **Key libraries:** scikit-learn, pandas, numpy, matplotlib, seaborn  
-- **Machine Learning models:** Linear Regression, Random Forest, XGBoost  
-- **Development environment:** Jupyter Notebook  
+- **Visualization Tool:** Tableau 📊  
+- **Data Analyzed:** Sales, profits, shipments, product categories  
+- **Methodologies:** Time series analysis, marketing budget optimization, business intelligence  
+- **Development Environment:** Tableau Public  
 
 ## 📈 Results Achieved  
 
-- **25% improvement** in forecast accuracy compared to traditional methods  
-- **15% waste reduction** due to better stock management  
-- **Optimized pricing strategy**, increasing profitability  
+- **20% reduction** in shipping costs through optimized delivery methods  
+- **15% increase** in net profit for products with improved marketing strategies  
+- **Better budget allocation strategy** to maximize return on investment  
+
+🔗 **Live Demo**: [View the dashboard on Tableau Public](https://public.tableau.com/app/profile/dario.colombo/viz/SuperstoreEurope-FinalProjectProfessionAI/SuperstoreOverview)  
